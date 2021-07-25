@@ -1,2 +1,4 @@
 Git is new learner
-git is free software
+git is free softar
+git has a mutable index called stage.
+
