@@ -1,4 +1,5 @@
 Git is new learner
 git is free softar
 git has a mutable index called stage.
+Git tracks changes.
 
